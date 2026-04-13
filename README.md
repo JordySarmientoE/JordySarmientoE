@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Jordy
 
-<!--
-**JordySarmientoE/JordySarmientoE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Technical Lead con experiencia en backend, frontend y AWS (serverless)
+🚀 Enfocado en arquitectura de soluciones y sistemas escalables
+🏦 Experiencia en sector seguros (RIMAC)
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- Node.js / NestJS
+- React / TypeScript
+- AWS (Lambda, API Gateway, DynamoDB)
+- Arquitectura serverless
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+- nest-microservices → arquitectura basada en microservicios
+- restserver → API REST con buenas prácticas
+- store-back → backend con TypeScript
+
+## 🎯 Actualmente
+Buscando crecer hacia Solution Architect
